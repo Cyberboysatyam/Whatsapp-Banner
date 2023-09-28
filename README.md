@@ -3,8 +3,8 @@ The tool Named "Whatsapp Lock Mini Tool " is designed for Cyber Crimes [Red Team
 
 
 ## one works on linux
-*`sudo apt update && upgrade`
-*`sudo apt install git python3`
-*`https://github.com/Cyberboysatyam/Whatsapp-Banner`
-*`cd Whatsapp-Banner`
-*`python3 banner.py`
+* `sudo apt update && upgrade`
+* `sudo apt install git python3`
+* `https://github.com/Cyberboysatyam/Whatsapp-Banner`
+* `cd Whatsapp-Banner`
+* `python3 banner.py`
